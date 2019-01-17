@@ -1,0 +1,4 @@
+Broken Sword 50A 10
+Broken Armour 50D 10
+Broken Helmet 50H 10
+Broken Boots 50E 2

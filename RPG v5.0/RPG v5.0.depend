@@ -1,0 +1,86 @@
+# depslib dependency file v1.0
+1489513196 source:c:\users\soham\computer pogramming\project 1\rpg v5.0\item.cpp
+	"Item.h"
+
+1489513196 c:\users\soham\computer pogramming\project 1\rpg v5.0\item.h
+	<iostream>
+	<string>
+
+1491122226 source:c:\users\soham\computer pogramming\project 1\rpg v5.0\main.cpp
+	<iostream>
+	<cstdlib>
+	<string>
+	<conio.h>
+	<fstream>
+	<vector>
+	<limits>
+	"Map.h"
+	"Player.h"
+	"Monster.h"
+	"Shop.h"
+	"Itemshop.h"
+
+1491121962 c:\users\soham\computer pogramming\project 1\rpg v5.0\map.h
+	<iostream>
+	<vector>
+	<string>
+	<random>
+	<time.h>
+	<Windows.h>
+	"Player.h"
+	"Monster.h"
+	"Shop.h"
+	"Itemshop.h"
+
+1489666450 c:\users\soham\computer pogramming\project 1\rpg v5.0\player.h
+	<iostream>
+	<list>
+	<string>
+	<fstream>
+	"Item.h"
+
+1489297924 c:\users\soham\computer pogramming\project 1\rpg v5.0\monster.h
+	<iostream>
+	<string>
+
+1491122378 source:c:\users\soham\computer pogramming\project 1\rpg v5.0\map.cpp
+	"Map.h"
+	<fstream>
+	<iostream>
+	<conio.h>
+
+1489297924 source:c:\users\soham\computer pogramming\project 1\rpg v5.0\monster.cpp
+	"Monster.h"
+	<time.h>
+	<random>
+	<limits>
+
+1491121222 source:c:\users\soham\computer pogramming\project 1\rpg v5.0\player.cpp
+	"Player.h"
+
+1491121498 source:c:\users\soham\computer pogramming\project 1\rpg v5.0\shop.cpp
+	<iostream>
+	<list>
+	"Shop.h"
+
+1489387956 c:\users\soham\computer pogramming\project 1\rpg v5.0\shop.h
+	<iostream>
+	<list>
+	<string>
+	"Item.h"
+
+1491122550 source:c:\users\soham\computer pogramming\project 1\rpg v5.0\itemshop.cpp
+	"Itemshop.h"
+	<conio.h>
+
+1490000092 c:\users\soham\computer pogramming\project 1\rpg v5.0\itemshop.h
+	<iostream>
+	<string>
+	<stdlib.h>
+	<cstdlib>
+	<limits>
+	<list>
+	"Shop.h"
+	"Player.h"
+	"Item.h"
+
